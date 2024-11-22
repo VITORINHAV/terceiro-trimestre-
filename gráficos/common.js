@@ -27,4 +27,4 @@ function incluirTexto(texto) {
     container.appendChild(paragrafo)
 }
 
-export { getCSS, tickConfig, criarGrafico, incluirTexto }
+export { getCSS, tickConfig, criarGrafi
